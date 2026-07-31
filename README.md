@@ -57,11 +57,6 @@ The dashboard monitors Windows Security authentication events, helping analysts 
 - Investigated failed authentication events for the local user account and verified them through raw event analysis.
 - Correlated dashboard visualizations with Windows Security logs to validate findings.
 
----
-
-## Screenshots
-
-(Add screenshots here after uploading them.)
 
 ---
 
