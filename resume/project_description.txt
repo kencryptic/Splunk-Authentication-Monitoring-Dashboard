@@ -1,0 +1,6 @@
+Splunk Authentication Monitoring Dashboard
+
+• Designed and developed a Splunk dashboard to monitor Windows authentication activity using Event IDs 4624 and 4625.
+• Created SPL queries to visualize successful logins, failed logins, logon type distribution, authentication trends, and user activity.
+• Investigated authentication events by correlating dashboard results with raw Windows Security logs.
+• Built visualizations to support SOC analysts in identifying suspicious authentication behavior.
