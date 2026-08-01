@@ -71,3 +71,19 @@ The dashboard monitors Windows Security authentication events, helping analysts 
 - Interactive Dashboard Filters
 - Risk Score Panel
 - Email Alerting
+
+- ## Architecture
+
+Windows Security Logs
+        │
+        ▼
+Splunk Enterprise
+        │
+        ▼
+SPL Queries
+        │
+        ▼
+Authentication Dashboard
+        │
+        ▼
+SOC Investigation
