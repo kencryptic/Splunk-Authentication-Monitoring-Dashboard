@@ -1,5 +1,9 @@
 # Splunk Authentication Monitoring Dashboard
 
+![Dashboard Overview](screenshots/dashboard-overview.png)
+
+A Splunk-based SOC dashboard for monitoring and investigating Windows authentication events (Event IDs 4624 & 4625) using SPL and Windows Security Logs.
+
 ## Overview
 
 This project demonstrates a Security Operations Center (SOC) authentication monitoring dashboard built using Splunk Enterprise.
